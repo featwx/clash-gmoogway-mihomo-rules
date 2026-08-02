@@ -1,6 +1,6 @@
 # Mihomo classical rule-provider
 # Upstream: https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module
-# Upstream-SHA256: 6160b60811248cafefdd67ca1b172fa90ce807b64e9720f430edc747c2afee78
+# Upstream-SHA256: 7e9b055bf7faa1e8039b69db176d938aa44309874642cabce3c9cd03a4d42691
 # Converted-Rules: 27022
 # Skipped-Unsupported: 152
 # Upstream-Metadata: name=proxy_list

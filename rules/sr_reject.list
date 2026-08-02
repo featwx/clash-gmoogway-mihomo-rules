@@ -1,6 +1,6 @@
 # Mihomo classical rule-provider
 # Upstream: https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module
-# Upstream-SHA256: 88601fcc1596531f4f9b155b9b641e1b6095407e673fcf399a8cd05e2431e305
+# Upstream-SHA256: 81dcc513d768c5e3c0d05d43684ddb79b5eb1e65f64166080995830d514a9b32
 # Converted-Rules: 171066
 # Skipped-Unsupported: 0
 # Upstream-Metadata: name=reject_list

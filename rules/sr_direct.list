@@ -1,6 +1,6 @@
 # Mihomo classical rule-provider
 # Upstream: https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module
-# Upstream-SHA256: f581a4467423502a2cefd8ff530d8143f9bc55fdc194ba7757cdaee41cfba173
+# Upstream-SHA256: 4879ff70a9adf0e20750b3e90cb1e320cfcb455ab5725dd027db7d838e8e79c3
 # Converted-Rules: 111907
 # Skipped-Unsupported: 8
 # Upstream-Metadata: name=direct_list
