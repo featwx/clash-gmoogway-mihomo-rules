@@ -1,0 +1,6 @@
+source/
+testdata-*/
+test-*.yaml
+YaNet-current-reference.js
+cache.db
+*.bak

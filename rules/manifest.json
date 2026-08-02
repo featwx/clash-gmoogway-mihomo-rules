@@ -1,0 +1,50 @@
+{
+  "direct": {
+    "converted_rules": 111907,
+    "duplicates_removed": 0,
+    "output": "rules/sr_direct.list",
+    "output_sha256": "e714a298ddc994414b408c5070ea298ee13b9a1d8ca09a454b2dd1d53b246286",
+    "rule_types": {
+      "DOMAIN": 580,
+      "DOMAIN-SUFFIX": 111327
+    },
+    "skipped_types": {
+      "URL-REGEX": 8
+    },
+    "skipped_unsupported": 8,
+    "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module",
+    "source_sha256": "f581a4467423502a2cefd8ff530d8143f9bc55fdc194ba7757cdaee41cfba173"
+  },
+  "proxy": {
+    "converted_rules": 27022,
+    "duplicates_removed": 0,
+    "output": "rules/sr_proxy.list",
+    "output_sha256": "4a752aacf27acdcb092a9550f78a45610a6d4831e65cbe97231811345baadd1e",
+    "rule_types": {
+      "DOMAIN": 764,
+      "DOMAIN-KEYWORD": 12,
+      "DOMAIN-SUFFIX": 26231,
+      "IP-CIDR": 15
+    },
+    "skipped_types": {
+      "URL-REGEX": 151,
+      "USER-AGENT": 1
+    },
+    "skipped_unsupported": 152,
+    "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module",
+    "source_sha256": "6160b60811248cafefdd67ca1b172fa90ce807b64e9720f430edc747c2afee78"
+  },
+  "reject": {
+    "converted_rules": 171066,
+    "duplicates_removed": 0,
+    "output": "rules/sr_reject.list",
+    "output_sha256": "875cf272088d326970854f76b2bc72bc84e0837b8d3b7facdd2b529492e41ad9",
+    "rule_types": {
+      "DOMAIN-SUFFIX": 171066
+    },
+    "skipped_types": {},
+    "skipped_unsupported": 0,
+    "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module",
+    "source_sha256": "88601fcc1596531f4f9b155b9b641e1b6095407e673fcf399a8cd05e2431e305"
+  }
+}

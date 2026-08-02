@@ -1,0 +1,44 @@
+name: Update converted Mihomo rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-rules
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Convert upstream Shadowrocket modules
+        run: python scripts/convert_rules.py
+
+      - name: Audit converted rules and priority conflicts
+        run: python scripts/audit_rules.py
+
+      - name: Commit updated rule sets
+        shell: bash
+        run: |
+          if git diff --quiet -- rules reports; then
+            echo "No upstream rule changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rules reports
+          git commit -m "chore: update converted rules"
+          git push
