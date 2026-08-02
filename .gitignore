@@ -1,4 +1,5 @@
 source/
+tools/
 testdata-*/
 test-*.yaml
 YaNet-current-reference.js
