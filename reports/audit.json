@@ -298,7 +298,7 @@
         "595image.com",
         "5hffr1p22j.com"
       ],
-      "reject_covered_by_direct_suffix": 2422,
+      "reject_covered_by_direct_suffix": 2423,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 111518,
+      "rules": 111524,
       "types": {
         "DOMAIN": 582,
-        "DOMAIN-SUFFIX": 110936
+        "DOMAIN-SUFFIX": 110942
       }
     },
     "proxy": {
-      "rules": 27108,
+      "rules": 27120,
       "types": {
-        "DOMAIN": 767,
+        "DOMAIN": 768,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26314,
+        "DOMAIN-SUFFIX": 26325,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 163904,
+      "rules": 164261,
       "types": {
-        "DOMAIN-SUFFIX": 163904
+        "DOMAIN-SUFFIX": 164261
       }
     }
   },
