@@ -1,7 +1,7 @@
 {
   "comparisons": {
     "direct_vs_proxy": {
-      "direct_covered_by_proxy_suffix": 514,
+      "direct_covered_by_proxy_suffix": 487,
       "direct_covered_samples": [
         [
           "265.com",
@@ -84,7 +84,7 @@
           "admob-cn.com"
         ]
       ],
-      "exact_domain_value_conflicts": 160,
+      "exact_domain_value_conflicts": 162,
       "exact_samples": [
         "265.com",
         "2mdn-cn.net",
@@ -107,7 +107,7 @@
         "as.mr",
         "asmr.gay"
       ],
-      "proxy_covered_by_direct_suffix": 223,
+      "proxy_covered_by_direct_suffix": 225,
       "proxy_covered_samples": [
         [
           "265.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 111525,
+      "rules": 111495,
       "types": {
-        "DOMAIN": 582,
+        "DOMAIN": 552,
         "DOMAIN-SUFFIX": 110943
       }
     },
     "proxy": {
-      "rules": 27125,
+      "rules": 27137,
       "types": {
         "DOMAIN": 768,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26330,
+        "DOMAIN-SUFFIX": 26342,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 186007,
+      "rules": 186315,
       "types": {
-        "DOMAIN-SUFFIX": 186007
+        "DOMAIN-SUFFIX": 186315
       }
     }
   },
