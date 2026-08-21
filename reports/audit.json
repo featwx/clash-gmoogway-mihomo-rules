@@ -298,7 +298,7 @@
         "595image.com",
         "5hffr1p22j.com"
       ],
-      "reject_covered_by_direct_suffix": 2447,
+      "reject_covered_by_direct_suffix": 2448,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 186315,
+      "rules": 186613,
       "types": {
-        "DOMAIN-SUFFIX": 186315
+        "DOMAIN-SUFFIX": 186613
       }
     }
   },
