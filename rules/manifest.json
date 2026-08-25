@@ -1,25 +1,25 @@
 {
   "direct": {
-    "converted_rules": 111495,
+    "converted_rules": 111561,
     "duplicates_removed": 0,
     "output": "rules/sr_direct.list",
-    "output_sha256": "a0f11d9d90ae33d556bef5af0516337fe6abd30c4e2d6019ee66bef0b5c1c246",
+    "output_sha256": "435c59a2c9c0a9bda9a37dc4e70365fa5e6d301cb85bdd015414763ee8eac3e9",
     "rule_types": {
       "DOMAIN": 552,
-      "DOMAIN-SUFFIX": 110943
+      "DOMAIN-SUFFIX": 111009
     },
     "skipped_types": {
       "URL-REGEX": 8
     },
     "skipped_unsupported": 8,
     "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module",
-    "source_sha256": "bc8413e7883a6c3ab268b77aa31e89e8afab48894f7280cc8179751ef9dca5b1"
+    "source_sha256": "dc414bc5843ae0d6a7fb47051edd9bb573db5b10a0b51b7ee195223ad1b81338"
   },
   "proxy": {
     "converted_rules": 27143,
     "duplicates_removed": 0,
     "output": "rules/sr_proxy.list",
-    "output_sha256": "61a3b90aa3d2fbfc8ae46879ec8ae8d619b02fe5dbabaeab4a570279d17dad55",
+    "output_sha256": "e469d5b8242784318cd6f6a98b6f31445125d1d564c68db42d169e65acf68968",
     "rule_types": {
       "DOMAIN": 768,
       "DOMAIN-KEYWORD": 12,
@@ -32,19 +32,19 @@
     },
     "skipped_unsupported": 152,
     "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module",
-    "source_sha256": "2fff975475ec47abcfa5276cd852c68c33670663f01bbe9e9cc9b20decf52bf9"
+    "source_sha256": "b0d7d113f6cddc64c5326be2648ddc8234e0c1274370b9e53f4fdd2a04726648"
   },
   "reject": {
-    "converted_rules": 187169,
+    "converted_rules": 186437,
     "duplicates_removed": 0,
     "output": "rules/sr_reject.list",
-    "output_sha256": "bd2531dd4437267fe08017bc594163652388ec6e06c3ddd13ae2e83dc75a1a5d",
+    "output_sha256": "f424e12f28d1e34997bf6901846d3c4c711bb9cfe75435f16cbe0880b132c03a",
     "rule_types": {
-      "DOMAIN-SUFFIX": 187169
+      "DOMAIN-SUFFIX": 186437
     },
     "skipped_types": {},
     "skipped_unsupported": 0,
     "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module",
-    "source_sha256": "3262d7649c378e372c285426611e8b1c61ca2c32f76226867c8ba0fd25ac7c43"
+    "source_sha256": "601eb822786011e12ea552aea9256e9432adfff64a360574a4c4a9070c3ce10f"
   }
 }
