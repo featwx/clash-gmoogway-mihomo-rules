@@ -1,29 +1,29 @@
 {
   "direct": {
-    "converted_rules": 112017,
+    "converted_rules": 111584,
     "duplicates_removed": 0,
     "output": "rules/sr_direct.list",
-    "output_sha256": "9b148c878d4af6650838744d086569f23985f9a97a1578d902c34e3eea1b4fdd",
+    "output_sha256": "97756c4b3be6a9b58f73ac65a4872c7bf45487a9949472e8c2d50d680e69e62a",
     "rule_types": {
       "DOMAIN": 552,
-      "DOMAIN-SUFFIX": 111465
+      "DOMAIN-SUFFIX": 111032
     },
     "skipped_types": {
       "URL-REGEX": 8
     },
     "skipped_unsupported": 8,
     "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module",
-    "source_sha256": "f2073fb8f5aa8db48ec68e31754f78bd8d5de7385f51e16373a8540466401808"
+    "source_sha256": "4a89ed5711d090ceba1a00b0ef86abb252c754a37cf05739236d5cc4c6ba05d6"
   },
   "proxy": {
-    "converted_rules": 27149,
+    "converted_rules": 27151,
     "duplicates_removed": 0,
     "output": "rules/sr_proxy.list",
-    "output_sha256": "db73cf4790e91733dea95ec141ac01aa34b07bb1f402c402cbcbd293ef199983",
+    "output_sha256": "0fcbad09169461864c5e5f4d12cfa9f6ef8cbdbd3c979ad95bcfb4fcc3ecd0f4",
     "rule_types": {
       "DOMAIN": 768,
       "DOMAIN-KEYWORD": 12,
-      "DOMAIN-SUFFIX": 26354,
+      "DOMAIN-SUFFIX": 26356,
       "IP-CIDR": 15
     },
     "skipped_types": {
@@ -32,19 +32,19 @@
     },
     "skipped_unsupported": 152,
     "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module",
-    "source_sha256": "d356839ebe574fd978e6304ced6d2ec97530a30e0bda1f991342cf4bcd7dbf78"
+    "source_sha256": "b7942bbbddc1dcfe1b1c59b0531db665a677b9bab45b7b206850d930d56c31aa"
   },
   "reject": {
-    "converted_rules": 187092,
+    "converted_rules": 187431,
     "duplicates_removed": 0,
     "output": "rules/sr_reject.list",
-    "output_sha256": "a677d713446ef27787ec0aa922cab5b54bc41cf2b4087b8e6a83ef17f5a90390",
+    "output_sha256": "cce574842514966264f9dcafc35125c9828d73e186ae0242e770b7c6a29033ad",
     "rule_types": {
-      "DOMAIN-SUFFIX": 187092
+      "DOMAIN-SUFFIX": 187431
     },
     "skipped_types": {},
     "skipped_unsupported": 0,
     "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module",
-    "source_sha256": "7706f4db5ba0ad708dd4d7c9c6a65d8f4b063b9f147b57c31509475754b8d2db"
+    "source_sha256": "cbabca1cea08d8483a5b41cbbf508c9f36575f7e68c45d515389fa28a86e6c25"
   }
 }

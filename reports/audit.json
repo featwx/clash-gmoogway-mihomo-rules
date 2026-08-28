@@ -1,7 +1,7 @@
 {
   "comparisons": {
     "direct_vs_proxy": {
-      "direct_covered_by_proxy_suffix": 488,
+      "direct_covered_by_proxy_suffix": 485,
       "direct_covered_samples": [
         [
           "265.com",
@@ -26,10 +26,6 @@
         [
           "99thz.com",
           "99thz.com"
-        ],
-        [
-          "9cao9.com",
-          "9cao9.com"
         ],
         [
           "a1.mzstatic.com",
@@ -82,9 +78,13 @@
         [
           "admob-cn.com",
           "admob-cn.com"
+        ],
+        [
+          "adservice.google.com",
+          "google.com"
         ]
       ],
-      "exact_domain_value_conflicts": 163,
+      "exact_domain_value_conflicts": 161,
       "exact_samples": [
         "265.com",
         "2mdn-cn.net",
@@ -92,7 +92,6 @@
         "91cy.app",
         "91short.com",
         "99thz.com",
-        "9cao9.com",
         "aa77kk.com",
         "acs.org",
         "admob-cn.com",
@@ -105,9 +104,10 @@
         "app-measurement-cn.com",
         "apps5.oingo.com",
         "as.mr",
-        "asmr.gay"
+        "asmr.gay",
+        "avail.googleflights.net"
       ],
-      "proxy_covered_by_direct_suffix": 226,
+      "proxy_covered_by_direct_suffix": 224,
       "proxy_covered_samples": [
         [
           "265.com",
@@ -128,10 +128,6 @@
         [
           "99thz.com",
           "99thz.com"
-        ],
-        [
-          "9cao9.com",
-          "9cao9.com"
         ],
         [
           "aa77kk.com",
@@ -188,6 +184,10 @@
         [
           "apple-tv-plus-press.apple.com",
           "apple.com"
+        ],
+        [
+          "apple.xn--czr694b",
+          "xn--czr694b"
         ]
       ]
     },
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 112017,
+      "rules": 111584,
       "types": {
         "DOMAIN": 552,
-        "DOMAIN-SUFFIX": 111465
+        "DOMAIN-SUFFIX": 111032
       }
     },
     "proxy": {
-      "rules": 27149,
+      "rules": 27151,
       "types": {
         "DOMAIN": 768,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26354,
+        "DOMAIN-SUFFIX": 26356,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 187092,
+      "rules": 187431,
       "types": {
-        "DOMAIN-SUFFIX": 187092
+        "DOMAIN-SUFFIX": 187431
       }
     }
   },
