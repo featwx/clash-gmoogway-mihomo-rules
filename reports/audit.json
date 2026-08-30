@@ -192,7 +192,7 @@
       ]
     },
     "direct_vs_reject": {
-      "direct_covered_by_reject_suffix": 332,
+      "direct_covered_by_reject_suffix": 338,
       "direct_covered_samples": [
         [
           "003store.com",
@@ -251,6 +251,10 @@
           "50bang.org"
         ],
         [
+          "51.la",
+          "51.la"
+        ],
+        [
           "518ad.com",
           "518ad.com"
         ],
@@ -269,13 +273,9 @@
         [
           "595image.com",
           "595image.com"
-        ],
-        [
-          "5hffr1p22j.com",
-          "5hffr1p22j.com"
         ]
       ],
-      "exact_domain_value_conflicts": 319,
+      "exact_domain_value_conflicts": 325,
       "exact_samples": [
         "003store.com",
         "165tchuang.com",
@@ -291,12 +291,12 @@
         "39jz.com",
         "3p8801.co",
         "50bang.org",
+        "51.la",
         "518ad.com",
         "54kefu.net",
         "55726zubo56686.com",
         "57573zubo36833.com",
-        "595image.com",
-        "5hffr1p22j.com"
+        "595image.com"
       ],
       "reject_covered_by_direct_suffix": 2426,
       "reject_covered_samples": [
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5506,
+      "reject_covered_by_proxy_suffix": 5507,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -583,10 +583,10 @@
   ],
   "sets": {
     "direct": {
-      "rules": 111348,
+      "rules": 111324,
       "types": {
         "DOMAIN": 552,
-        "DOMAIN-SUFFIX": 110796
+        "DOMAIN-SUFFIX": 110772
       }
     },
     "proxy": {
@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 187702,
+      "rules": 187952,
       "types": {
-        "DOMAIN-SUFFIX": 187702
+        "DOMAIN-SUFFIX": 187952
       }
     }
   },
