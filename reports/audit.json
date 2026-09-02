@@ -583,10 +583,10 @@
   ],
   "sets": {
     "direct": {
-      "rules": 111244,
+      "rules": 111146,
       "types": {
         "DOMAIN": 552,
-        "DOMAIN-SUFFIX": 110692
+        "DOMAIN-SUFFIX": 110594
       }
     },
     "proxy": {
@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 187983,
+      "rules": 188308,
       "types": {
-        "DOMAIN-SUFFIX": 187983
+        "DOMAIN-SUFFIX": 188308
       }
     }
   },
