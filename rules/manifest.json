@@ -3,7 +3,7 @@
     "converted_rules": 111124,
     "duplicates_removed": 0,
     "output": "rules/sr_direct.list",
-    "output_sha256": "6da23b94636ffd51b8f8dab9f17d54d3fe092b990ad7130ed5858c42c3387b5b",
+    "output_sha256": "ae4ce4fc4db5221aa533612f86a57e2dba9e3b39e5276de28d02eb9c264a2e9b",
     "rule_types": {
       "DOMAIN": 552,
       "DOMAIN-SUFFIX": 110572
@@ -13,13 +13,13 @@
     },
     "skipped_unsupported": 8,
     "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module",
-    "source_sha256": "5677faac70d3f0c74daa6a1274392577fdebd5feaebc1c18b1bb3ee7c5ba06a2"
+    "source_sha256": "d1c80c3338b3477126ad854e270a1cfdabdee2ad5e8bda540929794bb4d56b02"
   },
   "proxy": {
     "converted_rules": 27159,
     "duplicates_removed": 0,
     "output": "rules/sr_proxy.list",
-    "output_sha256": "fc1a7698f4a15c4133834edaaef4364e1969c7c108083845acbf53a547adf051",
+    "output_sha256": "ced31c8c87d399af905b7492227ec41bd6dfe401a609e4b96964a0e9ca77fff4",
     "rule_types": {
       "DOMAIN": 768,
       "DOMAIN-KEYWORD": 12,
@@ -32,19 +32,19 @@
     },
     "skipped_unsupported": 152,
     "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module",
-    "source_sha256": "f3a53630bef70aaf1b0b06d4b0884e6c3658be3a6901e2ee4dac600498e699ee"
+    "source_sha256": "640b82855abbfa5410542acd93098f5dde02e9d505e1ac66f760c6c1bfee7231"
   },
   "reject": {
-    "converted_rules": 188598,
+    "converted_rules": 188875,
     "duplicates_removed": 0,
     "output": "rules/sr_reject.list",
-    "output_sha256": "498a90995635e799adcb61c1a516e208a431346541926420cc2446db79ce7ea8",
+    "output_sha256": "96ce1aeb372f05faec61520011dc43a4e0f1ca0e946a237978969ce985b26faf",
     "rule_types": {
-      "DOMAIN-SUFFIX": 188598
+      "DOMAIN-SUFFIX": 188875
     },
     "skipped_types": {},
     "skipped_unsupported": 0,
     "source": "https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module",
-    "source_sha256": "d7b71666187499735f0e0a61367bc20075cf9743978f6bffcc63efc295200390"
+    "source_sha256": "5577403b2af770f7a6546d1acbb13896afb6467c4bdef9d6bed8cc82c2724a6f"
   }
 }
