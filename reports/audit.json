@@ -1,7 +1,7 @@
 {
   "comparisons": {
     "direct_vs_proxy": {
-      "direct_covered_by_proxy_suffix": 483,
+      "direct_covered_by_proxy_suffix": 484,
       "direct_covered_samples": [
         [
           "265.com",
@@ -84,7 +84,7 @@
           "google.com"
         ]
       ],
-      "exact_domain_value_conflicts": 161,
+      "exact_domain_value_conflicts": 162,
       "exact_samples": [
         "265.com",
         "2mdn-cn.net",
@@ -107,7 +107,7 @@
         "asmr.gay",
         "avail.googleflights.net"
       ],
-      "proxy_covered_by_direct_suffix": 224,
+      "proxy_covered_by_direct_suffix": 225,
       "proxy_covered_samples": [
         [
           "265.com",
@@ -298,7 +298,7 @@
         "57573zubo36833.com",
         "595image.com"
       ],
-      "reject_covered_by_direct_suffix": 2426,
+      "reject_covered_by_direct_suffix": 2425,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5515,
+      "reject_covered_by_proxy_suffix": 5520,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 111124,
+      "rules": 111145,
       "types": {
         "DOMAIN": 552,
-        "DOMAIN-SUFFIX": 110572
+        "DOMAIN-SUFFIX": 110593
       }
     },
     "proxy": {
-      "rules": 27159,
+      "rules": 27160,
       "types": {
         "DOMAIN": 768,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26364,
+        "DOMAIN-SUFFIX": 26365,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 188875,
+      "rules": 189173,
       "types": {
-        "DOMAIN-SUFFIX": 188875
+        "DOMAIN-SUFFIX": 189173
       }
     }
   },
