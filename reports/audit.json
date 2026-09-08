@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5520,
+      "reject_covered_by_proxy_suffix": 5519,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 189840,
+      "rules": 186035,
       "types": {
-        "DOMAIN-SUFFIX": 189840
+        "DOMAIN-SUFFIX": 186035
       }
     }
   },
