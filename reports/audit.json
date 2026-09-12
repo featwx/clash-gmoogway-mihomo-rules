@@ -298,7 +298,7 @@
         "57573zubo36833.com",
         "595image.com"
       ],
-      "reject_covered_by_direct_suffix": 2425,
+      "reject_covered_by_direct_suffix": 2426,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -590,18 +590,18 @@
       }
     },
     "proxy": {
-      "rules": 27168,
+      "rules": 27169,
       "types": {
         "DOMAIN": 769,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26372,
+        "DOMAIN-SUFFIX": 26373,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 187164,
+      "rules": 187521,
       "types": {
-        "DOMAIN-SUFFIX": 187164
+        "DOMAIN-SUFFIX": 187521
       }
     }
   },
