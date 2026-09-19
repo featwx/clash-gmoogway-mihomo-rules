@@ -298,7 +298,7 @@
         "57573zubo36833.com",
         "595image.com"
       ],
-      "reject_covered_by_direct_suffix": 2405,
+      "reject_covered_by_direct_suffix": 2404,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5524,
+      "reject_covered_by_proxy_suffix": 5525,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 189343,
+      "rules": 189696,
       "types": {
-        "DOMAIN-SUFFIX": 189343
+        "DOMAIN-SUFFIX": 189696
       }
     }
   },
