@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 189696,
+      "rules": 190044,
       "types": {
-        "DOMAIN-SUFFIX": 189696
+        "DOMAIN-SUFFIX": 190044
       }
     }
   },
