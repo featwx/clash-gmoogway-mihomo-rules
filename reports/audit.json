@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5525,
+      "reject_covered_by_proxy_suffix": 5526,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 111163,
+      "rules": 111172,
       "types": {
         "DOMAIN": 552,
-        "DOMAIN-SUFFIX": 110611
+        "DOMAIN-SUFFIX": 110620
       }
     },
     "proxy": {
-      "rules": 27173,
+      "rules": 27179,
       "types": {
-        "DOMAIN": 770,
+        "DOMAIN": 771,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26376,
+        "DOMAIN-SUFFIX": 26381,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 190044,
+      "rules": 190391,
       "types": {
-        "DOMAIN-SUFFIX": 190044
+        "DOMAIN-SUFFIX": 190391
       }
     }
   },
