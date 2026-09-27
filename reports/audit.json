@@ -192,7 +192,7 @@
       ]
     },
     "direct_vs_reject": {
-      "direct_covered_by_reject_suffix": 326,
+      "direct_covered_by_reject_suffix": 325,
       "direct_covered_samples": [
         [
           "003store.com",
@@ -275,7 +275,7 @@
           "595image.com"
         ]
       ],
-      "exact_domain_value_conflicts": 313,
+      "exact_domain_value_conflicts": 312,
       "exact_samples": [
         "003store.com",
         "165tchuang.com",
@@ -298,7 +298,7 @@
         "57573zubo36833.com",
         "595image.com"
       ],
-      "reject_covered_by_direct_suffix": 2415,
+      "reject_covered_by_direct_suffix": 2414,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -406,7 +406,7 @@
         "adultfriendfinder.com",
         "akstat.io"
       ],
-      "proxy_covered_by_reject_suffix": 155,
+      "proxy_covered_by_reject_suffix": 156,
       "proxy_covered_samples": [
         [
           "0emm.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 111410,
+      "rules": 111356,
       "types": {
         "DOMAIN": 553,
-        "DOMAIN-SUFFIX": 110857
+        "DOMAIN-SUFFIX": 110803
       }
     },
     "proxy": {
-      "rules": 27181,
+      "rules": 27183,
       "types": {
         "DOMAIN": 771,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26383,
+        "DOMAIN-SUFFIX": 26385,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 192062,
+      "rules": 192370,
       "types": {
-        "DOMAIN-SUFFIX": 192062
+        "DOMAIN-SUFFIX": 192370
       }
     }
   },
