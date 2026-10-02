@@ -298,7 +298,7 @@
         "57573zubo36833.com",
         "595image.com"
       ],
-      "reject_covered_by_direct_suffix": 2414,
+      "reject_covered_by_direct_suffix": 2416,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 186111,
+      "rules": 186441,
       "types": {
-        "DOMAIN-SUFFIX": 186111
+        "DOMAIN-SUFFIX": 186441
       }
     }
   },
