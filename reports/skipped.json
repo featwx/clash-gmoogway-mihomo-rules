@@ -3,49 +3,49 @@
     "count": 8,
     "items": [
       {
-        "line": 24972,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com.*$\",DIRECT"
-      },
-      {
-        "line": 39218,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com.*$\",DIRECT"
-      },
-      {
-        "line": 40805,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com.*$\",DIRECT"
-      },
-      {
-        "line": 45308,
+        "line": 4655,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/.+-mihayo\\.akamaized\\.net.*$\",DIRECT"
       },
       {
-        "line": 49364,
+        "line": 53472,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com.*$\",DIRECT"
+        "value": "URL-REGEX,\"^https?:\\/\\/cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com.*$\",DIRECT"
       },
       {
-        "line": 50782,
+        "line": 67413,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.googlevideo\\.com.*$\",DIRECT"
+      },
+      {
+        "line": 84686,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com.*$\",DIRECT"
+      },
+      {
+        "line": 86843,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/(.+\\.)*zh\\.okaapps\\.com.*$\",DIRECT"
       },
       {
-        "line": 69214,
+        "line": 87806,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com.*$\",DIRECT"
+      },
+      {
+        "line": 103921,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/.+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top).*$\",DIRECT"
       },
       {
-        "line": 92430,
+        "line": 105581,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/.+\\.awsdns-cn-[0-9][a-e0-9]\\.cn.*$\",DIRECT"
@@ -59,916 +59,916 @@
     "count": 152,
     "items": [
       {
-        "line": 85,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zzz[1-9][0-9]\\.top.*$\",PROXY"
-      },
-      {
-        "line": 1053,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?cosaa[a-z]\\.cyou.*$\",PROXY"
-      },
-      {
-        "line": 1319,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?uu[a-z][1-9][0-9]?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 1645,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?dualstack\\.ichnaea-web-.+\\.amazonaws\\.com.*$\",PROXY"
-      },
-      {
-        "line": 1657,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jav777\\.(cc|tv|work).*$\",PROXY"
-      },
-      {
-        "line": 1739,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?dualstack\\.apiproxy-.+\\.amazonaws\\.com.*$\",PROXY"
-      },
-      {
-        "line": 1743,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com.*$\",PROXY"
-      },
-      {
-        "line": 2277,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xg[0-9]{2}\\.vip.*$\",PROXY"
-      },
-      {
-        "line": 2311,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?cav1(0[2-9]|1[0-9])\\.com.*$\",PROXY"
-      },
-      {
-        "line": 2335,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porna[1-7]?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 2397,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?hkfg[1-7]\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 2416,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mmwz\\.(fun|in|la|me|one|pro|pw|run|tv|ws).*$\",PROXY"
-      },
-      {
-        "line": 2437,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?apiproxy-website-nlb-prod-.+\\.amazonaws\\.com.*$\",PROXY"
-      },
-      {
-        "line": 2581,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?whtdh0[1-3]\\.cc.*$\",PROXY"
-      },
-      {
-        "line": 2833,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?qqsp0[1-3]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 2884,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?lianren[1-7]\\.cc.*$\",PROXY"
-      },
-      {
-        "line": 3126,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?hs[1-9]{2}\\.vip.*$\",PROXY"
-      },
-      {
-        "line": 3366,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xingdh([0-9]{3})?\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 3400,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?hhmen[1-3]\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 3490,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?8dgo[1-57-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 3514,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?shuangmawei[0-9]{2}\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 3789,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?yrrj[1-9]?\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 4054,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xaa[0-9]?\\.one.*$\",PROXY"
-      },
-      {
-        "line": 4060,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/javdb\\d+\\.com$.*$\",PROXY"
-      },
-      {
-        "line": 4213,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?13mei[5-7]\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 4614,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/ewcdn[0-9]+\\.nowe\\.com.*$\",PROXY"
-      },
-      {
-        "line": 5160,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?7mm0([0-1][0-9]?)?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 5230,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porn[0-9]?\\.store.*$\",PROXY"
-      },
-      {
-        "line": 5673,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?loibus(100|101|202|505|606)\\.top.*$\",PROXY"
-      },
-      {
-        "line": 5850,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?loibus\\.(cc|com|link).*$\",PROXY"
-      },
-      {
-        "line": 5877,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?yygc[0-9]?\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 5996,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?luchuxue([0-9]{0,5})\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 6317,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?3[0-9]{2}\\.icu.*$\",PROXY"
-      },
-      {
-        "line": 6340,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zztt[1-6][0-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 6647,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?rbyh[1-9]\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 6737,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jdyy[1-9]?\\.me.*$\",PROXY"
-      },
-      {
-        "line": 6863,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?1[0-9]{2}\\.one.*$\",PROXY"
-      },
-      {
-        "line": 6898,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mitao[1-3]\\.tv.*$\",PROXY"
-      },
-      {
-        "line": 6975,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?gaogediao\\.(com|me|net|org).*$\",PROXY"
-      },
-      {
-        "line": 7064,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?awjd[1-9]?\\.tv.*$\",PROXY"
-      },
-      {
-        "line": 7416,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?69bag[0-1][1-9]?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 7465,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?twseb([1-9][0-9]?)?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 7478,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?sg11[3-9]\\.me.*$\",PROXY"
-      },
-      {
-        "line": 7530,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?kdfl[0-9]{2}\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 8063,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?smgsp[0-2]?\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 8353,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?shdd[0-9]{2}\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 8390,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jbk0([0-1][0-9]?)?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 8457,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?aipa(111|222|333|444|555|666|777|888|999)\\.life.*$\",PROXY"
-      },
-      {
-        "line": 8588,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?tttv([1-9][0-9]?|100)\\.com.*$\",PROXY"
-      },
-      {
-        "line": 8799,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[a-z][1-9][0-9][a-z]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 8857,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?kpkuang\\.(bond|fun|info|one|us).*$\",PROXY"
-      },
-      {
-        "line": 9589,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?fi11sm([0-9]+)?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 9628,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?doufuru[0-9]?\\.cc.*$\",PROXY"
-      },
-      {
-        "line": 9865,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[1-5]gaoap\\.com.*$\",PROXY"
-      },
-      {
-        "line": 9867,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xv[0-9]{4}\\.top.*$\",PROXY"
-      },
-      {
-        "line": 9973,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porn[fvxy]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 10121,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xxxyaom[0-9]{2}\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 10238,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?ssphb[0-9]{2}\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 10343,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?maa18[0-2][0-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 10558,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?byy[0-9][0-9]?\\.icu.*$\",PROXY"
-      },
-      {
-        "line": 10764,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?9cha[0-9]{2}\\.cc.*$\",PROXY"
-      },
-      {
-        "line": 11173,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?llyysp[0-9]{4}\\.top.*$\",PROXY"
-      },
-      {
-        "line": 11435,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[1-9]+zipai\\.(com|net).*$\",PROXY"
-      },
-      {
-        "line": 11843,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xaxy[0-9]{2}\\.one.*$\",PROXY"
-      },
-      {
-        "line": 11937,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[1-9]00caocao\\.com.*$\",PROXY"
-      },
-      {
-        "line": 12538,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?99pp[1-9][0-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 12741,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?783([a-z][a-z]?)?\\.tv.*$\",PROXY"
-      },
-      {
-        "line": 12944,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?18tv[1-5]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 12999,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?awwcn[1-9]?\\.top.*$\",PROXY"
-      },
-      {
-        "line": 13433,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?sycf[0-9]?\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 13884,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?guifw3[1-3]\\.cc.*$\",PROXY"
-      },
-      {
-        "line": 14439,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?bibeidh1[6-8]\\.cc.*$\",PROXY"
-      },
-      {
-        "line": 14585,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?madouqu[0-9]{2}\\.cc.*$\",PROXY"
-      },
-      {
-        "line": 15019,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?sao[1-6]0000\\.com.*$\",PROXY"
-      },
-      {
-        "line": 15204,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?18jmttios[0-9]{2}\\.com.*$\",PROXY"
-      },
-      {
-        "line": 15378,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?h5ccav[1-5]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 15504,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?aisejushi(2|3|5|6)\\.com.*$\",PROXY"
-      },
-      {
-        "line": 15815,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?tt[1-2][0-9]\\.tv.*$\",PROXY"
-      },
-      {
-        "line": 15948,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?tqav[1-9][0-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 16075,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mmtv[1-5]\\.life.*$\",PROXY"
-      },
-      {
-        "line": 16114,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?cgbb([1-9]|1[0-9]|20)\\.com.*$\",PROXY"
-      },
-      {
-        "line": 16124,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mdyy[0-1][0-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 16218,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[a-z]?fulibl\\.(cc|com|org|net|xyz).*$\",PROXY"
-      },
-      {
-        "line": 16437,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/epicgames-download\\d\\.akamaized\\.net.*$\",PROXY"
-      },
-      {
-        "line": 16459,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?supxxx[0-9]{0,2}\\.com.*$\",PROXY"
-      },
-      {
-        "line": 16488,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porn\\.(best|com|cool|fun|group|party|plus|site|tw|work).*$\",PROXY"
-      },
-      {
-        "line": 16629,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?rbp[1-9][0-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 16673,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91p[0-9][0-9]?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 16769,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?ksyp0[1-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 16917,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porn[0-9]{3}\\.me.*$\",PROXY"
-      },
-      {
-        "line": 17025,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?fby[1-9]?[0-9]\\.one.*$\",PROXY"
-      },
-      {
-        "line": 17578,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?avcc1[0-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 17644,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[3-9]0000sao\\.com.*$\",PROXY"
-      },
-      {
-        "line": 18047,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mdyy[0-9][0-9]\\.cc.*$\",PROXY"
-      },
-      {
-        "line": 18626,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jiuse[0-9]{1,3}\\.com.*$\",PROXY"
-      },
-      {
-        "line": 18633,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?syjc1[1-6]\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 18666,
+        "line": 241,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?bilibili3(0[1-9]|1[0-2])\\.xyz.*$\",PROXY"
       },
       {
-        "line": 18765,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/[0-9]+vod-adaptive\\.akamaized\\.net.*$\",PROXY"
-      },
-      {
-        "line": 18890,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?yiren[1-9][0-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 19041,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?wmm33[0-5]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 19115,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?aiwei[1-9]{2}\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 19370,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?doufuru[0-9]{2}?\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 19455,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?putaozy([1-9][0-9]?)?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 19483,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?aqdk[0-9]{3}\\.com.*$\",PROXY"
-      },
-      {
-        "line": 19904,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?rule34\\.(asia|us|world|xxx|xyz).*$\",PROXY"
-      },
-      {
-        "line": 20061,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?bhzyk[1-9]?\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 20194,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?ttghg[1-9][0-9]\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 20378,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?spankwire[1-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 20433,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91sew1[1-6]\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 20611,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?wyfuli[1-9]\\.net.*$\",PROXY"
-      },
-      {
-        "line": 20682,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mimi[0-9]{3}\\.com.*$\",PROXY"
-      },
-      {
-        "line": 20843,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zayy([0-9]{0,3})?\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 21025,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "USER-AGENT",
-        "value": "USER-AGENT,TikTok*,PROXY"
-      },
-      {
-        "line": 21166,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?forduck[0-1][0-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 21183,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?2024(3[0-9]|4[0-9]|6[0-9]|7[0-9])\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 21281,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?fiftymvapi\\..+.*$\",PROXY"
-      },
-      {
-        "line": 21348,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?banyinjia[0-9]?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 21370,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?twav[1-9]\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 21431,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?momotk([1-9][0-9]?)?\\.uno.*$\",PROXY"
-      },
-      {
-        "line": 21449,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?youyuapi\\..+.*$\",PROXY"
-      },
-      {
-        "line": 21808,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zh9[0-7]\\.net.*$\",PROXY"
-      },
-      {
-        "line": 21873,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?fby[1-9]?[0-9]\\.icu.*$\",PROXY"
-      },
-      {
-        "line": 21890,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?kimoav([1-9][0-9]?)?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 22075,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\\.com.*$\",PROXY"
-      },
-      {
-        "line": 22081,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/.+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com.*$\",PROXY"
-      },
-      {
-        "line": 22123,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zy[0-9]{4}\\.top.*$\",PROXY"
-      },
-      {
-        "line": 22203,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?douyintt[0-9]\\.me.*$\",PROXY"
-      },
-      {
-        "line": 22312,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?sbyjs2[6-9]\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 22429,
+        "line": 538,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?apiproxy-device-prod-nlb-.+\\.amazonaws\\.com.*$\",PROXY"
       },
       {
-        "line": 22821,
+        "line": 964,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xgyy([0-9]{2})?\\.vip.*$\",PROXY"
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?apiproxy-website-nlb-prod-.+\\.amazonaws\\.com.*$\",PROXY"
       },
       {
-        "line": 22884,
+        "line": 1074,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xlywz[1-9]?\\.cc.*$\",PROXY"
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?dualstack\\.apiproxy-.+\\.amazonaws\\.com.*$\",PROXY"
       },
       {
-        "line": 22998,
+        "line": 1160,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?tianbiav([1-9]|1[0-6])?\\.com.*$\",PROXY"
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xaxy[0-9]{2}\\.one.*$\",PROXY"
       },
       {
-        "line": 23032,
+        "line": 1306,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?flsq[0-9]{2}\\.com.*$\",PROXY"
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\\.com.*$\",PROXY"
       },
       {
-        "line": 23058,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/hses[1-7]?\\.akamaized\\.net.*$\",PROXY"
-      },
-      {
-        "line": 23331,
+        "line": 1473,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/.+\\.awsdns-[0-9][0-9]\\.(co\\.uk|com|net|org).*$\",PROXY"
       },
       {
-        "line": 23391,
+        "line": 1957,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jb[1-9][0-9]\\.lol.*$\",PROXY"
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?doufuru[0-9]{2}?\\.xyz.*$\",PROXY"
       },
       {
-        "line": 23489,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?qqbs([0-9]{2})?\\.vip.*$\",PROXY"
-      },
-      {
-        "line": 23810,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?989[a-z]?\\.tv.*$\",PROXY"
-      },
-      {
-        "line": 23848,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91wang[1-9]\\.com.*$\",PROXY"
-      },
-      {
-        "line": 24002,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?nnbw[0-2]\\.xyz.*$\",PROXY"
-      },
-      {
-        "line": 24385,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jmtt\\.(app|live|tv|vip).*$\",PROXY"
-      },
-      {
-        "line": 24523,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?chuzs[1-9]{0,2}\\.buzz.*$\",PROXY"
-      },
-      {
-        "line": 24532,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mimi\\.(cfd|lol|onl|sbs|so|vc).*$\",PROXY"
-      },
-      {
-        "line": 24566,
-        "reason": "unsupported by Mihomo classical rules",
-        "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91cg([1-9]|[0-9][1-9])?.com.*$\",PROXY"
-      },
-      {
-        "line": 24892,
+        "line": 2491,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?bjini[0-9]{2}\\.buzz.*$\",PROXY"
       },
       {
-        "line": 25398,
+        "line": 2502,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?gossipfuli[0-9]{3,4}\\.xyz.*$\",PROXY"
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?wyfuli[1-9]\\.net.*$\",PROXY"
       },
       {
-        "line": 25708,
+        "line": 2556,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?18j[efg]\\.life.*$\",PROXY"
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?twseb([1-9][0-9]?)?\\.com.*$\",PROXY"
       },
       {
-        "line": 25764,
+        "line": 2574,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?sg11[3-9]\\.me.*$\",PROXY"
+      },
+      {
+        "line": 3120,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porn[fvxy]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 3449,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?youyuapi\\..+.*$\",PROXY"
+      },
+      {
+        "line": 3662,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[a-z]?fulibl\\.(cc|com|org|net|xyz).*$\",PROXY"
+      },
+      {
+        "line": 3764,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mdyy[0-9][0-9]\\.cc.*$\",PROXY"
+      },
+      {
+        "line": 3839,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?cgbb([1-9]|1[0-9]|20)\\.com.*$\",PROXY"
+      },
+      {
+        "line": 4189,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[3-9]0000sao\\.com.*$\",PROXY"
+      },
+      {
+        "line": 4237,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?ttghg[1-9][0-9]\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 4292,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91wang[1-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 4452,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/chatgpt-async-webps-prod-\\S+-\\d+\\.webpubsub\\.azure\\.com.*$\",PROXY"
+      },
+      {
+        "line": 4469,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?smgsp[0-2]?\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 4638,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?rbyh[1-9]\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 4960,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?loibus\\.(cc|com|link).*$\",PROXY"
+      },
+      {
+        "line": 5216,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?2024(3[0-9]|4[0-9]|6[0-9]|7[0-9])\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 5549,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porn[0-9]?\\.store.*$\",PROXY"
+      },
+      {
+        "line": 5601,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?qqbs([0-9]{2})?\\.vip.*$\",PROXY"
+      },
+      {
+        "line": 5609,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?9cha[0-9]{2}\\.cc.*$\",PROXY"
+      },
+      {
+        "line": 5784,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?bibeidh1[6-8]\\.cc.*$\",PROXY"
+      },
+      {
+        "line": 5810,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/javdb\\d+\\.com$.*$\",PROXY"
+      },
+      {
+        "line": 5938,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?doufuru[0-9]?\\.cc.*$\",PROXY"
+      },
+      {
+        "line": 5948,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?awjd[1-9]?\\.tv.*$\",PROXY"
+      },
+      {
+        "line": 6015,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?ksyp0[1-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 6061,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porna[1-7]?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 6221,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mimi\\.(cfd|lol|onl|sbs|so|vc).*$\",PROXY"
+      },
+      {
+        "line": 6292,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?aqdk[0-9]{3}\\.com.*$\",PROXY"
+      },
+      {
+        "line": 6576,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91cg([1-9]|[0-9][1-9])?.com.*$\",PROXY"
+      },
+      {
+        "line": 6708,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?aiwei[1-9]{2}\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 6780,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?99pp[1-9][0-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 6794,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?18jmttios[0-9]{2}\\.com.*$\",PROXY"
+      },
+      {
+        "line": 7036,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?tttv([1-9][0-9]?|100)\\.com.*$\",PROXY"
+      },
+      {
+        "line": 7176,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?momotk([1-9][0-9]?)?\\.uno.*$\",PROXY"
+      },
+      {
+        "line": 8351,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?chuzs[1-9]{0,2}\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 8521,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?twav[1-9]\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 8563,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?douyintt[0-9]\\.me.*$\",PROXY"
+      },
+      {
+        "line": 8630,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?guifw3[1-3]\\.cc.*$\",PROXY"
+      },
+      {
+        "line": 8659,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?kimoav([1-9][0-9]?)?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 8893,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?flsq[0-9]{2}\\.com.*$\",PROXY"
+      },
+      {
+        "line": 8959,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xingdh([0-9]{3})?\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 8967,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?byy[0-9][0-9]?\\.icu.*$\",PROXY"
+      },
+      {
+        "line": 9512,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xg[0-9]{2}\\.vip.*$\",PROXY"
+      },
+      {
+        "line": 9520,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?nnbw[0-2]\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 9589,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?madouqu[0-9]{2}\\.cc.*$\",PROXY"
+      },
+      {
+        "line": 9607,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xlywz[1-9]?\\.cc.*$\",PROXY"
+      },
+      {
+        "line": 9659,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?putaozy([1-9][0-9]?)?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 9842,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?loibus(100|101|202|505|606)\\.top.*$\",PROXY"
+      },
+      {
+        "line": 9938,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?lianren[1-7]\\.cc.*$\",PROXY"
+      },
+      {
+        "line": 10157,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?wmm33[0-5]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 10367,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?kdfl[0-9]{2}\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 10384,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jiuse[0-9]{1,3}\\.com.*$\",PROXY"
+      },
+      {
+        "line": 10708,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jbk0([0-1][0-9]?)?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 10892,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?avstar0[1-9]\\.(com|me).*$\",PROXY"
       },
       {
-        "line": 26359,
+        "line": 11235,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
-        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xomfsp[1-9]?\\.buzz.*$\",PROXY"
+        "value": "URL-REGEX,\"^https?:\\/\\/epicgames-download\\d\\.akamaized\\.net.*$\",PROXY"
       },
       {
-        "line": 26873,
+        "line": 11457,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xaa[0-9]?\\.one.*$\",PROXY"
+      },
+      {
+        "line": 11480,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?hs[1-9]{2}\\.vip.*$\",PROXY"
+      },
+      {
+        "line": 11550,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?sbyjs2[6-9]\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 11575,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jav777\\.(cc|tv|work).*$\",PROXY"
+      },
+      {
+        "line": 11582,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?shuangmawei[0-9]{2}\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 11743,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mmtv[1-5]\\.life.*$\",PROXY"
+      },
+      {
+        "line": 11896,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[1-9]00caocao\\.com.*$\",PROXY"
+      },
+      {
+        "line": 11962,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/ewcdn[0-9]+\\.nowe\\.com.*$\",PROXY"
+      },
+      {
+        "line": 12013,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xxxyaom[0-9]{2}\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 12297,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?h5ccav[1-5]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 12313,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?luchuxue([0-9]{0,5})\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 12381,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jmtt\\.(app|live|tv|vip).*$\",PROXY"
+      },
+      {
+        "line": 12682,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zayy([0-9]{0,3})?\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 13269,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jb[1-9][0-9]\\.lol.*$\",PROXY"
+      },
+      {
+        "line": 13278,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mdyy[0-1][0-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 13280,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?7mm0([0-1][0-9]?)?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 13351,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[1-9]+zipai\\.(com|net).*$\",PROXY"
+      },
+      {
+        "line": 14428,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xv[0-9]{4}\\.top.*$\",PROXY"
+      },
+      {
+        "line": 14530,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?8dgo[1-57-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 14550,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[1-5]gaoap\\.com.*$\",PROXY"
+      },
+      {
+        "line": 14629,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zy[0-9]{4}\\.top.*$\",PROXY"
+      },
+      {
+        "line": 14714,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?cosaa[a-z]\\.cyou.*$\",PROXY"
+      },
+      {
+        "line": 14826,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?aipa(111|222|333|444|555|666|777|888|999)\\.life.*$\",PROXY"
+      },
+      {
+        "line": 14946,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porn[0-9]{3}\\.me.*$\",PROXY"
+      },
+      {
+        "line": 15027,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?aisejushi(2|3|5|6)\\.com.*$\",PROXY"
+      },
+      {
+        "line": 15036,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?yiren[1-9][0-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 15127,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?bhzyk[1-9]?\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 15274,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?maa18[0-2][0-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 15466,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?uu[a-z][1-9][0-9]?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 15546,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?fby[1-9]?[0-9]\\.one.*$\",PROXY"
+      },
+      {
+        "line": 15623,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?supxxx[0-9]{0,2}\\.com.*$\",PROXY"
+      },
+      {
+        "line": 15880,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?ssphb[0-9]{2}\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 16279,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?qqsp0[1-3]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 16615,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?1[0-9]{2}\\.one.*$\",PROXY"
+      },
+      {
+        "line": 17647,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/[0-9]+vod-adaptive\\.akamaized\\.net.*$\",PROXY"
+      },
+      {
+        "line": 17876,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?tt[1-2][0-9]\\.tv.*$\",PROXY"
+      },
+      {
+        "line": 17890,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?yrrj[1-9]?\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 17995,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?rule34\\.(asia|us|world|xxx|xyz).*$\",PROXY"
+      },
+      {
+        "line": 18559,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?kpkuang\\.(bond|fun|info|one|us).*$\",PROXY"
+      },
+      {
+        "line": 18574,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?3[0-9]{2}\\.icu.*$\",PROXY"
+      },
+      {
+        "line": 18665,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?989[a-z]?\\.tv.*$\",PROXY"
+      },
+      {
+        "line": 18822,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?yygc[0-9]?\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 18989,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?cav1(0[2-9]|1[0-9])\\.com.*$\",PROXY"
+      },
+      {
+        "line": 19034,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?fby[1-9]?[0-9]\\.icu.*$\",PROXY"
+      },
+      {
+        "line": 19150,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?gossipfuli[0-9]{3,4}\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 19307,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91porn\\.(best|com|cool|fun|group|party|plus|site|tw|work).*$\",PROXY"
+      },
+      {
+        "line": 19420,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?rbp[1-9][0-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 19520,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?13mei[5-7]\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 19678,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?banyinjia[0-9]?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 19690,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?hhmen[1-3]\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 19788,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?69bag[0-1][1-9]?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 19963,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mitao[1-3]\\.tv.*$\",PROXY"
+      },
+      {
+        "line": 20203,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?shdd[0-9]{2}\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 20367,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mimi[0-9]{3}\\.com.*$\",PROXY"
+      },
+      {
+        "line": 20534,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?3[0-9]{2}\\.one.*$\",PROXY"
       },
       {
-        "line": 27029,
+        "line": 20897,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xomfsp[1-9]?\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 21033,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zztt[1-6][0-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 21613,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?avcc1[0-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 21829,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?syjc1[1-6]\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 22173,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?fi11sm([0-9]+)?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 22337,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jdyy[1-9]?\\.me.*$\",PROXY"
+      },
+      {
+        "line": 22530,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?forduck[0-1][0-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 22756,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?spankwire[1-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 22782,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "USER-AGENT",
+        "value": "USER-AGENT,TikTok*,PROXY"
+      },
+      {
+        "line": 23128,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91p[0-9][0-9]?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 23357,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/hses[1-7]?\\.akamaized\\.net.*$\",PROXY"
+      },
+      {
+        "line": 23759,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?91sew1[1-6]\\.buzz.*$\",PROXY"
+      },
+      {
+        "line": 24059,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zh9[0-7]\\.net.*$\",PROXY"
+      },
+      {
+        "line": 24152,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?18j[efg]\\.life.*$\",PROXY"
+      },
+      {
+        "line": 24253,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?xgyy([0-9]{2})?\\.vip.*$\",PROXY"
+      },
+      {
+        "line": 24281,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?783([a-z][a-z]?)?\\.tv.*$\",PROXY"
+      },
+      {
+        "line": 24414,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?jstv[0-9]{2}\\.com.*$\",PROXY"
       },
       {
-        "line": 27098,
+        "line": 24539,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?awwcn[1-9]?\\.top.*$\",PROXY"
+      },
+      {
+        "line": 24565,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?tianbiav([1-9]|1[0-6])?\\.com.*$\",PROXY"
+      },
+      {
+        "line": 24594,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?sycf[0-9]?\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 24646,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?llyysp[0-9]{4}\\.top.*$\",PROXY"
+      },
+      {
+        "line": 25060,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?whtdh0[1-3]\\.cc.*$\",PROXY"
+      },
+      {
+        "line": 25089,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?zzz[1-9][0-9]\\.top.*$\",PROXY"
+      },
+      {
+        "line": 25129,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[a-z][1-9][0-9][a-z]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 25604,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?mmwz\\.(fun|in|la|me|one|pro|pw|run|tv|ws).*$\",PROXY"
+      },
+      {
+        "line": 25918,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/.+\\.dkr\\.ecr\\.[^\\.]+\\.amazonaws\\.com.*$\",PROXY"
+      },
+      {
+        "line": 26008,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?fiftymvapi\\..+.*$\",PROXY"
+      },
+      {
+        "line": 26193,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?hkfg[1-7]\\.xyz.*$\",PROXY"
+      },
+      {
+        "line": 26359,
         "reason": "unsupported by Mihomo classical rules",
         "type": "URL-REGEX",
         "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?[1-9]+aipai\\.(com|net).*$\",PROXY"
+      },
+      {
+        "line": 26440,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?sao[1-6]0000\\.com.*$\",PROXY"
+      },
+      {
+        "line": 26501,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?18tv[1-5]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 27024,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?tqav[1-9][0-9]\\.com.*$\",PROXY"
+      },
+      {
+        "line": 27062,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?dualstack\\.ichnaea-web-.+\\.amazonaws\\.com.*$\",PROXY"
+      },
+      {
+        "line": 27160,
+        "reason": "unsupported by Mihomo classical rules",
+        "type": "URL-REGEX",
+        "value": "URL-REGEX,\"^https?:\\/\\/(.*\\.)?gaogediao\\.(com|me|net|org).*$\",PROXY"
       }
     ],
     "types": {

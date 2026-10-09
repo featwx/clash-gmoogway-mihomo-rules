@@ -1,7 +1,7 @@
 {
   "comparisons": {
     "direct_vs_proxy": {
-      "direct_covered_by_proxy_suffix": 484,
+      "direct_covered_by_proxy_suffix": 485,
       "direct_covered_samples": [
         [
           "265.com",
@@ -84,7 +84,7 @@
           "google.com"
         ]
       ],
-      "exact_domain_value_conflicts": 162,
+      "exact_domain_value_conflicts": 163,
       "exact_samples": [
         "265.com",
         "2mdn-cn.net",
@@ -107,7 +107,7 @@
         "asmr.gay",
         "avail.googleflights.net"
       ],
-      "proxy_covered_by_direct_suffix": 225,
+      "proxy_covered_by_direct_suffix": 226,
       "proxy_covered_samples": [
         [
           "265.com",
@@ -383,7 +383,7 @@
       ]
     },
     "proxy_vs_reject": {
-      "exact_domain_value_conflicts": 129,
+      "exact_domain_value_conflicts": 133,
       "exact_samples": [
         "0emm.com",
         "2mdn-cn.net",
@@ -406,7 +406,7 @@
         "adultfriendfinder.com",
         "akstat.io"
       ],
-      "proxy_covered_by_reject_suffix": 157,
+      "proxy_covered_by_reject_suffix": 161,
       "proxy_covered_samples": [
         [
           "0emm.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5538,
+      "reject_covered_by_proxy_suffix": 5540,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 111395,
+      "rules": 111727,
       "types": {
         "DOMAIN": 553,
-        "DOMAIN-SUFFIX": 110842
+        "DOMAIN-SUFFIX": 111174
       }
     },
     "proxy": {
-      "rules": 27225,
+      "rules": 27229,
       "types": {
-        "DOMAIN": 773,
+        "DOMAIN": 777,
         "DOMAIN-KEYWORD": 12,
         "DOMAIN-SUFFIX": 26425,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 188321,
+      "rules": 188646,
       "types": {
-        "DOMAIN-SUFFIX": 188321
+        "DOMAIN-SUFFIX": 188646
       }
     }
   },
