@@ -107,7 +107,7 @@
         "asmr.gay",
         "avail.googleflights.net"
       ],
-      "proxy_covered_by_direct_suffix": 226,
+      "proxy_covered_by_direct_suffix": 225,
       "proxy_covered_samples": [
         [
           "265.com",
@@ -192,7 +192,7 @@
       ]
     },
     "direct_vs_reject": {
-      "direct_covered_by_reject_suffix": 325,
+      "direct_covered_by_reject_suffix": 319,
       "direct_covered_samples": [
         [
           "003store.com",
@@ -205,10 +205,6 @@
         [
           "1l1.cc",
           "1l1.cc"
-        ],
-        [
-          "2481e.com",
-          "2481e.com"
         ],
         [
           "25662zubo23739.com",
@@ -273,14 +269,17 @@
         [
           "595image.com",
           "595image.com"
+        ],
+        [
+          "5enhjla7z.com",
+          "5enhjla7z.com"
         ]
       ],
-      "exact_domain_value_conflicts": 312,
+      "exact_domain_value_conflicts": 306,
       "exact_samples": [
         "003store.com",
         "165tchuang.com",
         "1l1.cc",
-        "2481e.com",
         "25662zubo23739.com",
         "2mdn-cn.net",
         "2mdn.net",
@@ -296,9 +295,10 @@
         "54kefu.net",
         "55726zubo56686.com",
         "57573zubo36833.com",
-        "595image.com"
+        "595image.com",
+        "5enhjla7z.com"
       ],
-      "reject_covered_by_direct_suffix": 2418,
+      "reject_covered_by_direct_suffix": 2404,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5540,
+      "reject_covered_by_proxy_suffix": 5528,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -590,18 +590,18 @@
       }
     },
     "proxy": {
-      "rules": 27229,
+      "rules": 27314,
       "types": {
-        "DOMAIN": 777,
+        "DOMAIN": 776,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26425,
+        "DOMAIN-SUFFIX": 26511,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 188646,
+      "rules": 190684,
       "types": {
-        "DOMAIN-SUFFIX": 188646
+        "DOMAIN-SUFFIX": 190684
       }
     }
   },
