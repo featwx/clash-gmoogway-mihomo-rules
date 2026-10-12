@@ -1,7 +1,7 @@
 {
   "comparisons": {
     "direct_vs_proxy": {
-      "direct_covered_by_proxy_suffix": 485,
+      "direct_covered_by_proxy_suffix": 484,
       "direct_covered_samples": [
         [
           "265.com",
@@ -18,10 +18,6 @@
         [
           "91cy.app",
           "91cy.app"
-        ],
-        [
-          "91short.com",
-          "91short.com"
         ],
         [
           "99thz.com",
@@ -82,15 +78,18 @@
         [
           "adservice.google.com",
           "google.com"
+        ],
+        [
+          "age.tv",
+          "age.tv"
         ]
       ],
-      "exact_domain_value_conflicts": 163,
+      "exact_domain_value_conflicts": 162,
       "exact_samples": [
         "265.com",
         "2mdn-cn.net",
         "2mdn.net",
         "91cy.app",
-        "91short.com",
         "99thz.com",
         "aa77kk.com",
         "acs.org",
@@ -105,9 +104,10 @@
         "apps5.oingo.com",
         "as.mr",
         "asmr.gay",
-        "avail.googleflights.net"
+        "avail.googleflights.net",
+        "avstar4.com"
       ],
-      "proxy_covered_by_direct_suffix": 225,
+      "proxy_covered_by_direct_suffix": 224,
       "proxy_covered_samples": [
         [
           "265.com",
@@ -120,10 +120,6 @@
         [
           "91cy.app",
           "91cy.app"
-        ],
-        [
-          "91short.com",
-          "91short.com"
         ],
         [
           "99thz.com",
@@ -188,11 +184,15 @@
         [
           "apple.xn--czr694b",
           "xn--czr694b"
+        ],
+        [
+          "apple.xn--fiqs8s",
+          "xn--fiqs8s"
         ]
       ]
     },
     "direct_vs_reject": {
-      "direct_covered_by_reject_suffix": 319,
+      "direct_covered_by_reject_suffix": 315,
       "direct_covered_samples": [
         [
           "003store.com",
@@ -275,7 +275,7 @@
           "5enhjla7z.com"
         ]
       ],
-      "exact_domain_value_conflicts": 306,
+      "exact_domain_value_conflicts": 302,
       "exact_samples": [
         "003store.com",
         "165tchuang.com",
@@ -298,7 +298,7 @@
         "595image.com",
         "5enhjla7z.com"
       ],
-      "reject_covered_by_direct_suffix": 2404,
+      "reject_covered_by_direct_suffix": 2397,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5529,
+      "reject_covered_by_proxy_suffix": 5530,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -583,10 +583,10 @@
   ],
   "sets": {
     "direct": {
-      "rules": 111727,
+      "rules": 110927,
       "types": {
         "DOMAIN": 553,
-        "DOMAIN-SUFFIX": 111174
+        "DOMAIN-SUFFIX": 110374
       }
     },
     "proxy": {
@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 190949,
+      "rules": 191259,
       "types": {
-        "DOMAIN-SUFFIX": 190949
+        "DOMAIN-SUFFIX": 191259
       }
     }
   },
