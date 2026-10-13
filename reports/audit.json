@@ -298,7 +298,7 @@
         "595image.com",
         "5enhjla7z.com"
       ],
-      "reject_covered_by_direct_suffix": 2397,
+      "reject_covered_by_direct_suffix": 2398,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5530,
+      "reject_covered_by_proxy_suffix": 5535,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 191259,
+      "rules": 193305,
       "types": {
-        "DOMAIN-SUFFIX": 191259
+        "DOMAIN-SUFFIX": 193305
       }
     }
   },
