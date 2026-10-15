@@ -192,7 +192,7 @@
       ]
     },
     "direct_vs_reject": {
-      "direct_covered_by_reject_suffix": 312,
+      "direct_covered_by_reject_suffix": 299,
       "direct_covered_samples": [
         [
           "003store.com",
@@ -221,10 +221,6 @@
         [
           "3337723.com",
           "3337723.com"
-        ],
-        [
-          "3337738.com",
-          "3337738.com"
         ],
         [
           "360ads.com",
@@ -273,9 +269,13 @@
         [
           "5enhjla7z.com",
           "5enhjla7z.com"
+        ],
+        [
+          "5hffr1p22j.com",
+          "5hffr1p22j.com"
         ]
       ],
-      "exact_domain_value_conflicts": 299,
+      "exact_domain_value_conflicts": 286,
       "exact_samples": [
         "003store.com",
         "165tchuang.com",
@@ -284,7 +284,6 @@
         "2mdn-cn.net",
         "2mdn.net",
         "3337723.com",
-        "3337738.com",
         "360ads.com",
         "365dmp.com",
         "39jz.com",
@@ -296,9 +295,10 @@
         "55726zubo56686.com",
         "57573zubo36833.com",
         "595image.com",
-        "5enhjla7z.com"
+        "5enhjla7z.com",
+        "5hffr1p22j.com"
       ],
-      "reject_covered_by_direct_suffix": 2395,
+      "reject_covered_by_direct_suffix": 2281,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -383,7 +383,7 @@
       ]
     },
     "proxy_vs_reject": {
-      "exact_domain_value_conflicts": 133,
+      "exact_domain_value_conflicts": 132,
       "exact_samples": [
         "0emm.com",
         "2mdn-cn.net",
@@ -406,7 +406,7 @@
         "adultfriendfinder.com",
         "akstat.io"
       ],
-      "proxy_covered_by_reject_suffix": 161,
+      "proxy_covered_by_reject_suffix": 160,
       "proxy_covered_samples": [
         [
           "0emm.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5535,
+      "reject_covered_by_proxy_suffix": 5534,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -599,9 +599,9 @@
       }
     },
     "reject": {
-      "rules": 193651,
+      "rules": 193624,
       "types": {
-        "DOMAIN-SUFFIX": 193651
+        "DOMAIN-SUFFIX": 193624
       }
     }
   },
