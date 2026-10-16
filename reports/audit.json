@@ -1,7 +1,7 @@
 {
   "comparisons": {
     "direct_vs_proxy": {
-      "direct_covered_by_proxy_suffix": 484,
+      "direct_covered_by_proxy_suffix": 481,
       "direct_covered_samples": [
         [
           "265.com",
@@ -84,7 +84,7 @@
           "age.tv"
         ]
       ],
-      "exact_domain_value_conflicts": 162,
+      "exact_domain_value_conflicts": 160,
       "exact_samples": [
         "265.com",
         "2mdn-cn.net",
@@ -107,7 +107,7 @@
         "avail.googleflights.net",
         "avstar4.com"
       ],
-      "proxy_covered_by_direct_suffix": 224,
+      "proxy_covered_by_direct_suffix": 222,
       "proxy_covered_samples": [
         [
           "265.com",
@@ -192,7 +192,7 @@
       ]
     },
     "direct_vs_reject": {
-      "direct_covered_by_reject_suffix": 299,
+      "direct_covered_by_reject_suffix": 298,
       "direct_covered_samples": [
         [
           "003store.com",
@@ -275,7 +275,7 @@
           "5hffr1p22j.com"
         ]
       ],
-      "exact_domain_value_conflicts": 286,
+      "exact_domain_value_conflicts": 285,
       "exact_samples": [
         "003store.com",
         "165tchuang.com",
@@ -298,7 +298,7 @@
         "5enhjla7z.com",
         "5hffr1p22j.com"
       ],
-      "reject_covered_by_direct_suffix": 2281,
+      "reject_covered_by_direct_suffix": 2274,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 110617,
+      "rules": 110563,
       "types": {
         "DOMAIN": 553,
-        "DOMAIN-SUFFIX": 110064
+        "DOMAIN-SUFFIX": 110010
       }
     },
     "proxy": {
-      "rules": 27314,
+      "rules": 27319,
       "types": {
         "DOMAIN": 776,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26511,
+        "DOMAIN-SUFFIX": 26516,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 193624,
+      "rules": 194244,
       "types": {
-        "DOMAIN-SUFFIX": 193624
+        "DOMAIN-SUFFIX": 194244
       }
     }
   },
