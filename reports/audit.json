@@ -298,7 +298,7 @@
         "5enhjla7z.com",
         "5hffr1p22j.com"
       ],
-      "reject_covered_by_direct_suffix": 2274,
+      "reject_covered_by_direct_suffix": 2273,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 110563,
+      "rules": 110519,
       "types": {
         "DOMAIN": 553,
-        "DOMAIN-SUFFIX": 110010
+        "DOMAIN-SUFFIX": 109966
       }
     },
     "proxy": {
-      "rules": 27319,
+      "rules": 27320,
       "types": {
         "DOMAIN": 776,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26516,
+        "DOMAIN-SUFFIX": 26517,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 194244,
+      "rules": 194620,
       "types": {
-        "DOMAIN-SUFFIX": 194244
+        "DOMAIN-SUFFIX": 194620
       }
     }
   },
