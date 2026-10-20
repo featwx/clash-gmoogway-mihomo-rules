@@ -298,7 +298,7 @@
         "5enhjla7z.com",
         "5hffr1p22j.com"
       ],
-      "reject_covered_by_direct_suffix": 2273,
+      "reject_covered_by_direct_suffix": 2275,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5536,
+      "reject_covered_by_proxy_suffix": 5567,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -590,18 +590,18 @@
       }
     },
     "proxy": {
-      "rules": 27338,
+      "rules": 27343,
       "types": {
-        "DOMAIN": 778,
+        "DOMAIN": 780,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26533,
+        "DOMAIN-SUFFIX": 26536,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 195309,
+      "rules": 197560,
       "types": {
-        "DOMAIN-SUFFIX": 195309
+        "DOMAIN-SUFFIX": 197560
       }
     }
   },
