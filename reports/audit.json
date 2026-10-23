@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5585,
+      "reject_covered_by_proxy_suffix": 5586,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -506,6 +506,10 @@
         [
           "1097834592.rsc.cdn77.org",
           "cdn77.org"
+        ],
+        [
+          "1136838699.b-cdn.net",
+          "b-cdn.net"
         ],
         [
           "1187531871.rsc.cdn77.org",
@@ -566,10 +570,6 @@
         [
           "25serve.yourporngod.com",
           "yourporngod.com"
-        ],
-        [
-          "2mdn-cn.net",
-          "2mdn-cn.net"
         ]
       ]
     }
@@ -590,18 +590,18 @@
       }
     },
     "proxy": {
-      "rules": 27367,
+      "rules": 27393,
       "types": {
-        "DOMAIN": 781,
+        "DOMAIN": 782,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26559,
+        "DOMAIN-SUFFIX": 26584,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 199574,
+      "rules": 199940,
       "types": {
-        "DOMAIN-SUFFIX": 199574
+        "DOMAIN-SUFFIX": 199940
       }
     }
   },
