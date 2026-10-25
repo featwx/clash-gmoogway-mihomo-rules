@@ -107,7 +107,7 @@
         "avail.googleflights.net",
         "avstar4.com"
       ],
-      "proxy_covered_by_direct_suffix": 222,
+      "proxy_covered_by_direct_suffix": 221,
       "proxy_covered_samples": [
         [
           "265.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 110238,
+      "rules": 110244,
       "types": {
-        "DOMAIN": 553,
-        "DOMAIN-SUFFIX": 109685
+        "DOMAIN": 555,
+        "DOMAIN-SUFFIX": 109689
       }
     },
     "proxy": {
-      "rules": 27394,
+      "rules": 27398,
       "types": {
         "DOMAIN": 782,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26585,
+        "DOMAIN-SUFFIX": 26589,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 200297,
+      "rules": 200553,
       "types": {
-        "DOMAIN-SUFFIX": 200297
+        "DOMAIN-SUFFIX": 200553
       }
     }
   },
