@@ -298,7 +298,7 @@
         "5enhjla7z.com",
         "5hffr1p22j.com"
       ],
-      "reject_covered_by_direct_suffix": 2283,
+      "reject_covered_by_direct_suffix": 2284,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -383,7 +383,7 @@
       ]
     },
     "proxy_vs_reject": {
-      "exact_domain_value_conflicts": 132,
+      "exact_domain_value_conflicts": 131,
       "exact_samples": [
         "0emm.com",
         "2mdn-cn.net",
@@ -406,7 +406,7 @@
         "adultfriendfinder.com",
         "akstat.io"
       ],
-      "proxy_covered_by_reject_suffix": 160,
+      "proxy_covered_by_reject_suffix": 159,
       "proxy_covered_samples": [
         [
           "0emm.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5586,
+      "reject_covered_by_proxy_suffix": 5606,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 110244,
+      "rules": 110246,
       "types": {
         "DOMAIN": 555,
-        "DOMAIN-SUFFIX": 109689
+        "DOMAIN-SUFFIX": 109691
       }
     },
     "proxy": {
-      "rules": 27398,
+      "rules": 27389,
       "types": {
-        "DOMAIN": 782,
+        "DOMAIN": 788,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26589,
+        "DOMAIN-SUFFIX": 26574,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 200553,
+      "rules": 193218,
       "types": {
-        "DOMAIN-SUFFIX": 200553
+        "DOMAIN-SUFFIX": 193218
       }
     }
   },
