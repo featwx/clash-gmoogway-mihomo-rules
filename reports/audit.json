@@ -1,7 +1,7 @@
 {
   "comparisons": {
     "direct_vs_proxy": {
-      "direct_covered_by_proxy_suffix": 481,
+      "direct_covered_by_proxy_suffix": 479,
       "direct_covered_samples": [
         [
           "265.com",
@@ -84,7 +84,7 @@
           "age.tv"
         ]
       ],
-      "exact_domain_value_conflicts": 160,
+      "exact_domain_value_conflicts": 158,
       "exact_samples": [
         "265.com",
         "2mdn-cn.net",
@@ -107,7 +107,7 @@
         "avail.googleflights.net",
         "avstar4.com"
       ],
-      "proxy_covered_by_direct_suffix": 221,
+      "proxy_covered_by_direct_suffix": 219,
       "proxy_covered_samples": [
         [
           "265.com",
@@ -298,7 +298,7 @@
         "5enhjla7z.com",
         "5hffr1p22j.com"
       ],
-      "reject_covered_by_direct_suffix": 2284,
+      "reject_covered_by_direct_suffix": 2286,
       "reject_covered_samples": [
         [
           "003store.com",
@@ -489,7 +489,7 @@
           "adultfriendfinder.com"
         ]
       ],
-      "reject_covered_by_proxy_suffix": 5606,
+      "reject_covered_by_proxy_suffix": 5607,
       "reject_covered_samples": [
         [
           "0emm.com",
@@ -585,23 +585,23 @@
     "direct": {
       "rules": 110246,
       "types": {
-        "DOMAIN": 555,
-        "DOMAIN-SUFFIX": 109691
+        "DOMAIN": 557,
+        "DOMAIN-SUFFIX": 109689
       }
     },
     "proxy": {
-      "rules": 27389,
+      "rules": 27396,
       "types": {
         "DOMAIN": 788,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26574,
+        "DOMAIN-SUFFIX": 26581,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 193218,
+      "rules": 193585,
       "types": {
-        "DOMAIN-SUFFIX": 193218
+        "DOMAIN-SUFFIX": 193585
       }
     }
   },
