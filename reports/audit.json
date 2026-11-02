@@ -583,25 +583,25 @@
   ],
   "sets": {
     "direct": {
-      "rules": 110189,
+      "rules": 110192,
       "types": {
         "DOMAIN": 557,
-        "DOMAIN-SUFFIX": 109632
+        "DOMAIN-SUFFIX": 109635
       }
     },
     "proxy": {
-      "rules": 27407,
+      "rules": 27416,
       "types": {
         "DOMAIN": 788,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26592,
+        "DOMAIN-SUFFIX": 26601,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 195047,
+      "rules": 195411,
       "types": {
-        "DOMAIN-SUFFIX": 195047
+        "DOMAIN-SUFFIX": 195411
       }
     }
   },
