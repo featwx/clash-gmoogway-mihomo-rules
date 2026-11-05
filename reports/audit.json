@@ -590,18 +590,18 @@
       }
     },
     "proxy": {
-      "rules": 27418,
+      "rules": 27423,
       "types": {
         "DOMAIN": 788,
         "DOMAIN-KEYWORD": 12,
-        "DOMAIN-SUFFIX": 26603,
+        "DOMAIN-SUFFIX": 26608,
         "IP-CIDR": 15
       }
     },
     "reject": {
-      "rules": 197255,
+      "rules": 197501,
       "types": {
-        "DOMAIN-SUFFIX": 197255
+        "DOMAIN-SUFFIX": 197501
       }
     }
   },
